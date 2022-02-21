@@ -1,16 +1,22 @@
-### Hi there 👋
+# 👨‍💻 WELCOME
+---
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:7FFFD4,100:1B1D1F&height=350&section=header&text=Shinui%20Oh(LLouis)&fontSize=80&animation=twinkling)
+- Kyungsung Univ. Department of Computer Science
+- Project 3rd [Busan Federation IT Club] Member
+- UMC KSU 1st [Univ Makeus Challenge] Manager
 
-<!--
-**Shinui-Oh/Shinui-Oh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 Skills.
+---
+### Languages
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=navy"/>
 
-Here are some ideas to get you started:
+# 🔗 Links.
+---
+- [LLouis Notion](https://www.notion.so/llouis/Shinui-Oh-Resume-c9cc3ee042c84dc69f3a034582f01632)
+- [LLouis BOJ](https://www.acmicpc.net/user/louis0622)
+- [LLouis Programmers](https://programmers.co.kr/pr/llouis)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📝 Blogs.
+---
+- [LLouis Univ Blog](https://velog.io/@llouis)
+- [LLouis Private Blog](https://llouis-0622.tistory.com/)
