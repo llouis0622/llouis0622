@@ -32,6 +32,6 @@
 - [LLouis Univ Blog](https://velog.io/@llouis)
 - [LLouis Private Blog](https://llouis-0622.tistory.com/)
 
-# About.
+# 🎖️ About.
 ![LLouis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shinui-Oh&show_icons=true&theme=radical)
 [![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=louis0622)](https://solved.ac/louis0622)
