@@ -38,4 +38,4 @@
 # About.
 ---
 ![LLouis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shinui-Oh&show_icons=true&theme=radical)
-[![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={louis0622})](https://solved.ac/{louis0622})
+[![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=louis0622)](https://solved.ac/louis0622)
