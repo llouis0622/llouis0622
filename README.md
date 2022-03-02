@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white"/>
 
 # 🔗 Link.
-- [LLouis Blog](https://llouis-0622.tistory.com/)
+- [LLouis Blog](https://blog.naver.com/llouis_0622)
 - [LLouis Notion](https://www.notion.so/llouis/Shinui-Oh-Resume-c9cc3ee042c84dc69f3a034582f01632)
 - [LLouis BOJ](https://www.acmicpc.net/user/louis0622)
 - [LLouis Programmers](https://programmers.co.kr/pr/llouis)
