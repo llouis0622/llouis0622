@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:7FFFD4,100:1B1D1F&height=200&section=header&text=Shinui%20Oh(LLouis)&fontSize=60&animation=twinkling)
 - Kyungsung Univ. Department of Computer Science
 - Project 3rd [Busan Federation IT Club] Member
-- UMC KSU 1st [Univ Makeus Challenge] Manager
+- UMC KSU 2 [Univ Makeus Challenge] Manager
 
 # 💻 Skill.
 ### Languages
