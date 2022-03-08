@@ -3,6 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:7FFFD4,100:1B1D1F&height=200&section=header&text=Shinui%20Oh(LLouis)&fontSize=60&animation=twinkling)
 - Project 3rd [Busan Federation IT Club] Member
 - UMC KSU 2nd [Univ Makeus Challenge] Manager
+- [LLouis Notion](https://www.notion.so/llouis/Shinui-Oh-Resume-c9cc3ee042c84dc69f3a034582f01632)
 
 # 💻 Skill.
 ### Languages
@@ -19,12 +20,6 @@
 
 ### Etc
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white"/>
-
-# 🔗 Link.
-- [LLouis Blog](https://blog.naver.com/llouis_0622)
-- [LLouis Notion](https://www.notion.so/llouis/Shinui-Oh-Resume-c9cc3ee042c84dc69f3a034582f01632)
-- [LLouis BOJ](https://www.acmicpc.net/user/louis0622)
-- [LLouis Programmers](https://programmers.co.kr/pr/llouis)
 
 # 🎖️ About.
 ![LLouis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shinui-Oh&show_icons=true&theme=radical) 
