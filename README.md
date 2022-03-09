@@ -3,7 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:7FFFD4,100:1B1D1F&height=200&section=header&text=Shinui%20Oh(LLouis)&fontSize=60&animation=twinkling)
 - Project 3rd [Busan Federation IT Club] Member
 - UMC KSU 2nd [Univ Makeus Challenge] Manager
-- [LLouis Notion](https://www.notion.so/llouis/Shinui-Oh-Resume-c9cc3ee042c84dc69f3a034582f01632)
 
 # 💻 Skill.
 ### Languages
