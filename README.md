@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:7FFFD4,100:1B1D1F&height=200&section=header&text=Shinui%20Oh(LLouis)&fontSize=60&animation=twinkling)
 
-#### Hi! I'm Shinui-Oh, Spring(Java) Developer. I planned, developed, and distributed web services as a back-end developer. I'm focusing on IT infrastructure management and service improvement. My area of expertise is the back-end, but I'm also interested in front-end and network management.
+### Hi! I'm Shinui-Oh, Spring(Java) Developer. I planned, developed, and distributed web services as a back-end developer. I'm focusing on IT infrastructure management and service improvement. My area of expertise is the back-end, but I'm also interested in front-end and network management.
 
 ```java
   class LLouis {
