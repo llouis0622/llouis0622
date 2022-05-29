@@ -6,6 +6,7 @@
   class LLouis {
     final String name = "Oh Shinui";
     final String role = "Spring(Java) Developer";
+    String focus = "Build IT Infrastructure & Improve Service";
 
     class Contacts {
         String tel = "010-0000-0000";
