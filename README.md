@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:7FFFD4,100:1B1D1F&height=200&section=header&text=Shinui%20Oh(LLouis)&fontSize=60&animation=twinkling)
 
 ```java
-  class LLouis {
+class LLouis {
     final String name = "Oh Shinui";
     final String role = "Spring(Java) Developer";
     String focus = "Build IT Infrastructure & Improve Service";
@@ -32,7 +32,7 @@
 - - -
 
 # 📖 I'm studying on...
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
 
 - - -
 
