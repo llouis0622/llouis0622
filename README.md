@@ -1,4 +1,4 @@
-## Now Learn : Tensorflow
+## Now Learn : KoNLP, Tensorflow, Pytorch
 ## Interest : Interpreting Unique Meanings through Ambiguity Analysis in Korean
 ### 2022.08.01 ~ 2024.01.31 ROKA
 
