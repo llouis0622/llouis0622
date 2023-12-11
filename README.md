@@ -1,4 +1,4 @@
-## Now Learn : Probability Theory, Keras, R
+## Now Learn : ML
 ### 2022.08.01 ~ 2024.01.31 ROKA
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=louis0622)](https://solved.ac/louis0622)
