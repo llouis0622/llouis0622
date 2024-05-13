@@ -1,3 +1,11 @@
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=louis0622)](https://solved.ac/louis0622)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llouis0622&layout=compact&theme=dark&text_color=5CFFD1&title_color=5CFFD1)
+## Shinui Oh(LLouis)
+
+### Interested in. Data Analysis, NLP
+
+📍 [링크드인](https://www.linkedin.com/in/llouis0622/)
+
+📍 [캐글](https://www.kaggle.com/llouis0622)
+
+📍 [데이콘](https://dacon.io/myprofile/496331/home)
+
 ![LLouis' github stats](https://github-readme-stats.vercel.app/api?username=llouis0622&show_icons=true&theme=merko)
