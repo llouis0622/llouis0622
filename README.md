@@ -3,10 +3,7 @@
 ## 👨‍💻 About Me
 
 I'm a passionate AI Engineer with experience in developing machine learning models, deep learning, and data analysis.
-
-- 🌱 I’m currently learning advanced NLP techniques.
-- 💬 Ask me about machine learning, deep learning, and data science.
-- 📫 How to reach me: [llouis0622@gmail.com](mailto:llouis0622@gmail.com)
+And I’m currently learning advanced NLP techniques.
 
 ## 🛠️ Skills & Tools
 
@@ -25,9 +22,9 @@ I'm a passionate AI Engineer with experience in developing machine learning mode
 ## 📫 Contact Me
 
 - Email: [llouis0622@gmail.com](mailto:llouis@gmail.com)
-- LinkedIn: [LLouis LinkedIn](https://www.linkedin.com/in/llouis0622/)
-- Kaggle: [LLouis Kaggle](https://www.kaggle.com/llouis0622)
-- DACON: [LLouis DACON](https://dacon.io/myprofile/496331/home)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/llouis0622/)
+- Kaggle: [Kaggle](https://www.kaggle.com/llouis0622)
+- DACON: [DACON](https://dacon.io/myprofile/496331/home)
 
 ## 📈 GitHub Stats
 
