@@ -5,6 +5,8 @@
 I'm a passionate AI Engineer with experience in developing machine learning models, deep learning, and data analysis.
 And I’m currently learning advanced NLP techniques.
 
+- Email: [llouis0622@gmail.com](mailto:llouis@gmail.com)
+
 ## 🛠️ Skills & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -18,14 +20,7 @@ And I’m currently learning advanced NLP techniques.
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-334A5F?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white)
-
-## 📫 Contact Me
-
-- Email: [llouis0622@gmail.com](mailto:llouis@gmail.com)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/llouis0622/)
-- Kaggle: [Kaggle](https://www.kaggle.com/llouis0622)
-- DACON: [DACON](https://dacon.io/myprofile/496331/home)
-
+  
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=llouis0622&show_icons=true&theme=radical)
