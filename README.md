@@ -5,6 +5,8 @@
 I'm a passionate AI Engineer with experience in developing machine learning models, and deep learning
 And I’m currently learning advanced NLP & CV techniques.
 
+### I'm on AI Deep Dive Website Development Project.
+
 - Email: [llouis0622@gmail.com](mailto:llouis@gmail.com)
 
 ## 🛠️ Skills & Tools
