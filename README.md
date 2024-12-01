@@ -7,7 +7,8 @@ Currently, I'm focusing on advanced NLP & CV techniques and exploring multimodal
 
 - 💡 Always looking for innovative AI projects and collaboration opportunities.  
 - 🌱 Continuously learning and expanding my skill set in AI and software development.  
-- 📧 Email: [llouis0622@gmail.com](mailto:llouis0622@gmail.com)  
+- 📧 Email: [llouis0622@gmail.com](mailto:llouis0622@gmail.com)
+- 📄 [Curriculum Vitae](https://llouis.notion.site/)  
 
 ---
 
