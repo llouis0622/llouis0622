@@ -3,20 +3,10 @@
 ## 👨‍💻 About Me  
 
 I'm a passionate AI Engineer with experience in developing machine learning and deep learning models.  
-Currently, I'm focusing on advanced NLP & CV techniques and exploring multimodal AI applications.  
+I am currently interested in multimodal research, but I am particularly focused on studying NLP.
  
 - 📧 Email: [llouis0622@gmail.com](mailto:llouis0622@gmail.com)  
 - 📄 [Curriculum Vitae](https://llouis.notion.site/)  
-
----
-
-## 🌟 Highlights  
-
-- 📜 **Research Work**  
-  Reading and implementing research papers related to NLP and CV.  
-
-- 💻 **AI Knowledge Hub Website**  
-  Developed a comprehensive webpage to consolidate AI concepts, tools, and research papers for the community.  
 
 ---
 
@@ -45,10 +35,3 @@ Currently, I'm focusing on advanced NLP & CV techniques and exploring multimodal
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=llouis0622&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=llouis0622&layout=compact&theme=radical)  
-
----
-
-## 🔗 Let's Connect  
-
-- 🌐 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/llouis0622)  
-- 📧 Email: [llouis0622@gmail.com](mailto:llouis0622@gmail.com)
