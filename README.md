@@ -27,10 +27,3 @@ Passionate AI Engineer focused on NLP and multimodal research with expertise in 
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
   ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white) 
   ![DACON](https://img.shields.io/badge/DACON-0055FF?style=for-the-badge&logo=data&logoColor=white)  
-
----
-
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=llouis0622&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=llouis0622&layout=compact&theme=radical)
