@@ -2,8 +2,11 @@
 
 ## 👨‍💻 About Me
 
-Passionate AI Engineer focused on NLP and multimodal research with expertise in building machine learning and deep learning models.  
+Aspiring AI Model Developer with a strong focus on **text augmentation generation** and multimodal learning.  
+Currently exploring the intersection of **Quantum Computing** and **AI**, diving into the future of machine learning innovation.  
 
+- 🧠 Interests: Text Augmentation, Multimodal Learning, Quantum AI, Model Optimization  
+- 🧪 Recent Focus: Understanding how quantum methods can enhance and accelerate AI training and data generation  
 - 📧 Email: [llouis0622@gmail.com](mailto:llouis0622@gmail.com)  
 - 📄 [Curriculum Vitae](https://llouis.notion.site/)  
 
@@ -24,8 +27,16 @@ Passionate AI Engineer focused on NLP and multimodal research with expertise in 
   ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
 
+- **Quantum Tools (Learning):**  
+  ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white) 
+  ![PennyLane](https://img.shields.io/badge/PennyLane-FF4785?style=for-the-badge&logoColor=white)  
+
 - **Tools & Platforms:**  
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
   ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white) 
   ![DACON](https://img.shields.io/badge/DACON-0055FF?style=for-the-badge&logo=data&logoColor=white)  
+
+---
+
+> “Pushing the boundaries of AI, one model — and qubit — at a time.”
