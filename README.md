@@ -1,6 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi!%20I'm%20Shinui%20Oh&fontSize=70)
-
-
 ## 👨‍💻 About Me.
 
 - Kyungsung University — B.S. in Software Engineering(Major) & B.S. in AI Mathematical Sciences(Double Major)
@@ -19,9 +16,6 @@
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
   ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white) 
   ![PennyLane](https://img.shields.io/badge/PennyLane-FF4785?style=for-the-badge&logoColor=white)  
-
-- ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white) 
-  ![DACON](https://img.shields.io/badge/DACON-0055FF?style=for-the-badge&logo=data&logoColor=white)  
 
 ## 📎 Etc.
 
