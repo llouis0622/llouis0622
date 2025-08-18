@@ -2,7 +2,7 @@
 
 - Kyungsung University — B.S. in Software Engineering(Major) & B.S. in AI Mathematical Sciences(Double Major)
 - AI Model Engineer for **QNLP & Text Augmentation**
-- Awarded the KT Digital Talent Scholarship 2025 by KT Corporation
+- Awarded the **KT Digital Talent Scholarship** 2025 by KT Corporation
 
 ## 🛠️ Skills & Tools.
 
