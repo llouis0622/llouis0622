@@ -1,5 +1,2 @@
-## 👨‍💻 About Me.
-
-- Kyungsung University — B.S. in Software Engineering(Major) & AI Mathematics(Double Major)
-- AI Engineer for **LLM-RAG, Ontology, AI Agent Orchestration**
-- Skills - Python, PyTorch, Tensorflow, AI Agent
+I turn data into knowledge, and knowledge into intelligence.  
+I teach models to reason, and agents to work alongside people.
